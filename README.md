@@ -8,7 +8,7 @@ Welcome, this tutorial will teach you how to use PySAMP. During the tutorial you
 
 1. [Getting started](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/1.%20Getting%20started.md) **DONE**
 2. [SA-MP.md](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/2.%20SA-MP.md) **DONE**
-3. [Creating first gamemode](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/3.%20Creating%20first%20gamemode.md) **WIP**
+3. [Creating first gamemode](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/3.%20Creating%20first%20gamemode.md) **DONE**
 4. [Actors](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/4.%20Actors.md) **DONE**
 5. [Commands](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/5.%20Commands.md) **DONE**
 6. [Dialog](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/6.%20Dialogs.md) **DONE**

@@ -30,3 +30,4 @@ Welcome, this tutorial will teach you how to use PySAMP. During the tutorial you
 
 * [denNorske](https://github.com/dennorske), [habecker](https://github.com/habecker), [Cheaterman](https://github.com/Cheaterman) for developing PySAMP
 * [Me](https://github.com/Ykpauneu) for tutorial
+* [RahRow](https://github.com/RahRow) for contributing and helping to write this tutorial

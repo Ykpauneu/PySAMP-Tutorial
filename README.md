@@ -12,7 +12,7 @@ Welcome, this tutorial will teach you how to use PySAMP. During the tutorial you
 4. [Actors](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/4.%20Actors.md) **DONE**
 5. [Commands](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/5.%20Commands.md) **DONE**
 6. [Dialog](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/6.%20Dialogs.md) **DONE**
-7. [Gangzones](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/7.%20Gangzones.md) **WIP**
+7. [Gangzones](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/7.%20Gangzones.md) **DONE**
 8. [Menus](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/8.%20Menus.md) **WIP**
 9. [Objects](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/9.%20Objects.md) **WIP**
 10. [Pickups](https://github.com/Ykpauneu/PySAMP-Tutorial/blob/master/10.%20Pickups.md) **WIP**
@@ -30,3 +30,4 @@ Welcome, this tutorial will teach you how to use PySAMP. During the tutorial you
 
 * [denNorske](https://github.com/dennorske), [habecker](https://github.com/habecker), [Cheaterman](https://github.com/Cheaterman) for developing PySAMP
 * [Me](https://github.com/Ykpauneu) for tutorial
+* [RahRow](https://github.com/RahRow) for contributing and helping to write this tutorial
